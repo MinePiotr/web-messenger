@@ -1,0 +1,6 @@
+{
+    "server": "vercel",
+    "api_url": "https://YOUR-PROJECT.vercel.app/api",
+    "ws_url": "wss://YOUR-PROJECT.vercel.app",
+    "mode": "production"
+}
